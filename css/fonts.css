@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cocogoose Pro';
+    src: url('../fonts/Cocogoose Pro Regular Italic Trial.ttf') format('truetype');
+    font-style: italic;
+    font-weight: bold
+}
+@font-face {
+    font-family: 'Cocogoose Pro';
+    src: url('../fonts/Cocogoose Pro Thin Italic Trial.ttf') format('truetype');
+    font-style: italic;
+    font-weight: 200
+}
+@font-face {
+    font-family: 'Cocogoose Pro';
+    src: url('../fonts/Cocogoose Pro Light Italic Trial.ttf') format('truetype');
+    font-style: italic;
+    font-weight: 400
+}
